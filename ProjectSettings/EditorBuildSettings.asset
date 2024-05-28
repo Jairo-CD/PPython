@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 4674ae656e2881e47ba97c508f2cc5c0
+  - enabled: 1
+    path: Assets/Scenes/Capitulos.unity
+    guid: 8319cd0d7684cd846a2517a759fd8e5f
+  - enabled: 1
+    path: Assets/Scenes/AcercaDe.unity
+    guid: 9becef7eb5dd2014c9372dcd781f53e3
+  - enabled: 1
+    path: Assets/Scenes/VideoInicio.unity
+    guid: 88bc5055258311642974b2e6d6bcbc81
+  - enabled: 1
+    path: Assets/Scenes/Capitulo1/Capitulo1.unity
+    guid: 01f506f7cc876ff409dd9c38e370936c
+  - enabled: 1
+    path: Assets/Scenes/Capitulo1/LibroCapitulo1.unity
+    guid: 885042e51ab09584f847f05a549afd1a
+  - enabled: 1
+    path: Assets/Scenes/Capitulo1/TerminalCapitulo1.unity
+    guid: 1d4caa5dee571274aa220ba54ee3f981
+  - enabled: 1
+    path: Assets/Scenes/Capitulo1/HistoriaCapitulo1.unity
+    guid: 45c672a63b0fa064e8df88e704d780fb
+  - enabled: 1
+    path: Assets/Scenes/Capitulo2/Capitulo2.unity
+    guid: 4c54f8699498f5c449bb1adaf4e5f18f
+  - enabled: 1
+    path: Assets/Scenes/Capitulo2/HistoriaCapitulo2.unity
+    guid: 9081442fb49aec742864049cb8ac5d08
+  - enabled: 1
+    path: Assets/Scenes/Capitulo2/LibroCapitulo1cap2.unity
+    guid: a9736d1b75846554da67d6c9c4f30052
+  - enabled: 1
+    path: Assets/Scenes/Capitulo2/LibroCapitulo2.unity
+    guid: ce5a8a7510177894e97ca6ed6fc4e937
+  - enabled: 1
+    path: Assets/Scenes/Capitulo2/TerminalCapitulo2.unity
+    guid: bb7735fb27ea5be439035834dbd5efac
+  - enabled: 1
+    path: Assets/Scenes/Capitulo3/Capitulo3.unity
+    guid: c006e9d418dc8604f8ab5a960207a0a7
+  - enabled: 1
+    path: Assets/Scenes/Capitulo3/HistoriaCapitulo3.unity
+    guid: 3a478ed9a47ca2a43b1193dd7edbdb54
+  - enabled: 1
+    path: Assets/Scenes/Capitulo3/LibroCapitulo1cap3.unity
+    guid: dd157884dd80de041af8d112f5ac9dbd
+  - enabled: 1
+    path: Assets/Scenes/Capitulo3/LibroCapitulo2cap3.unity
+    guid: 9a6facf4bbab4d84eb6f72d1baf3fad8
+  - enabled: 1
+    path: Assets/Scenes/Capitulo3/LibroCapitulo3cap3.unity
+    guid: 0bf942768ca4680418ef009b78f6c70b
+  - enabled: 1
+    path: Assets/Scenes/Capitulo3/TerminalCapitulo3.unity
+    guid: f9de0d7a79c7fbb4ab444213cb839d5b
+  m_configObjects: {}
